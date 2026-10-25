@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Guillaume · tty",
+      "hasCanvas": false,
+      "bodyTextLen": 2998,
+      "bodyTextHash": "fb69451be0823b0f00e3069b6e6d6da9f79998d184b4394c0fae07ea14ec04d2",
+      "bodyTextPrefix": "Saltar al contenido ~/guillaume proyectos acerca habilidades con",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Guillaume · tty",
+      "hasCanvas": false,
+      "bodyTextLen": 2998,
+      "bodyTextHash": "fb69451be0823b0f00e3069b6e6d6da9f79998d184b4394c0fae07ea14ec04d2",
+      "bodyTextPrefix": "Saltar al contenido ~/guillaume proyectos acerca habilidades con",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
