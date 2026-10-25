@@ -3,6 +3,7 @@ import { AuthProvider } from "@/lib/auth/provider";
 import { PreviewHostBridge } from "@/components/preview-host-bridge";
 import { DistroProvider } from "@/components/distro-provider";
 import { BOOT_SCRIPT } from "@/lib/portfolio";
+import { SpeedInsights } from "@vercel/speed-insights/react";
 import appCss from "../styles.css?url";
 
 const APP_NAME = "Guillaume · tty";
@@ -46,6 +47,7 @@ export const Route = createRootRoute({
           </DistroProvider>
         </AuthProvider>
         <Scripts />
+        <SpeedInsights />
       </body>
     </html>
   ),
